@@ -1,3 +1,3 @@
-## About Rekishi
+1. chrome extension boilerplate
 
-Shopify Recently Viewed App.
+2. personal extension
